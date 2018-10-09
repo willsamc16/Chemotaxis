@@ -1,18 +1,4 @@
- //declare bacteria variables here   
- void setup()   
- {     
- 	//initialize bacteria variables here   
- }   
- void draw()   
- {    
- 	//move and show the bacteria   
- }  
- class Bacteria    
- {     
- 	//lots of java!   
- }    
- 
- Walker[] bob;
+Walker[] bob;
 boolean alive = true;
 float x;
 float y;
